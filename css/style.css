@@ -67,3 +67,20 @@ img {
     border-radius: 15px;
     box-shadow: 0 3px 8px var(--color-neutral-dark);
 }
+
+@media screen and (min-width: 768px) {
+    .drinkContainer {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 25px;
+    }
+}
+
+@media screen and (min-width: 1165px) {
+    .hotDrinkList {
+        grid-template-columns: repeat(5, 1fr);
+    }
+    .icedDrinkList {
+        grid-template-columns: repeat(6, 1fr);
+        gap: 15px;
+    }
+}
