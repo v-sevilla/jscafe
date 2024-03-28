@@ -39,14 +39,17 @@ body {
 
 /* TEMP STYLES TO VISUALIZE BETTER */
 img {
-    height: 150px;
+    max-width: 100%;
 }
 
-section {
-    gap: 5px;
-    justify-content: center;
+.drinkContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
 }
 
 .hotDrinks, .icedDrinks {
     border: 2px solid red;
+    display: flex;
+    flex-direction: column;
 }
