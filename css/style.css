@@ -27,8 +27,26 @@ body {
     background-color: var(--color-background);
     color:var(--color-neutral-light);
     font-family: var(--font-family);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
-header {
+.header {
     font-family: var(--font-family-header);
+}
+
+/* TEMP STYLES TO VISUALIZE BETTER */
+img {
+    height: 150px;
+}
+
+section {
+    gap: 5px;
+    justify-content: center;
+}
+
+.hotDrinks, .icedDrinks {
+    border: 2px solid red;
 }
