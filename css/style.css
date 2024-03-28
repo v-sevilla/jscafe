@@ -53,10 +53,16 @@ p {
     font-weight: var(--fw-semi-bold);
 }
 
+span {
+    font-size: var(--fs-100);
+    padding: 2px;
+    margin-bottom: 5px;
+}
+
 .drinkContainer {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    gap: 10px;
 }
 
 img {

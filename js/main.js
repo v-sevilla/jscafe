@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
             let htmlSegment = `<section class="hotDrinks">
                                 <img src="${drink.image}" >
                                 <p>${drink.title}</p>
+                                <span class="drinkDescription">${drink.description}</span>
                             </section>`;
     
             html += htmlSegment;
