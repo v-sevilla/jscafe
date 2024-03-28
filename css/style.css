@@ -17,9 +17,9 @@
     --fw-bold: 700;
   
     --fs-100: 1rem;
-    --fs-200: 1.75rem;
-    --fs-300: 2rem;
-    --fs-400: 2.5rem;
+    --fs-200: 1.15rem;
+    --fs-300: 1.5rem;
+    --fs-400: 2rem;
     --fs-500: 3rem;
 }
 
@@ -37,19 +37,33 @@ body {
     font-family: var(--font-family-header);
 }
 
-/* TEMP STYLES TO VISUALIZE BETTER */
-img {
-    max-width: 100%;
+h1 {
+    font-size: var(--fs-400);
 }
+
+h2 {
+    font-size: var(--fs-300);
+}
+
+p {
+    margin: 8px 0;
+    font-size: var(--fs-200);
+    font-weight: var(--fw-semi-bold);
+}
+
+/* TEMP STYLES TO VISUALIZE BETTER */
 
 .drinkContainer {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+    gap: 20px;
 }
 
-.hotDrinks, .icedDrinks {
-    border: 2px solid red;
-    display: flex;
-    flex-direction: column;
+img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border: 1px solid var(--color-secondarydark);
+    border-radius: 15px;
+    box-shadow: 0 3px 8px var(--color-neutral-dark);
 }
