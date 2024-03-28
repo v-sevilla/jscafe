@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
         hotDrinks.forEach(drink => {
             let htmlSegment = `<section class="hotDrinks">
                                 <img src="${drink.image}" >
-                                <h2>${drink.title}</h2>
+                                <p>${drink.title}</p>
                             </section>`;
     
             html += htmlSegment;
@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
         icedDrinks.forEach(drink => {
             let htmlSegment = `<section class="icedDrinks">
                                 <img src="${drink.image}" >
-                                <h2>${drink.title}</h2>
+                                <p>${drink.title}</p>
                             </section>`;
     
             html += htmlSegment;
