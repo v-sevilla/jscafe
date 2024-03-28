@@ -39,10 +39,12 @@ body {
 
 h1 {
     font-size: var(--fs-400);
+    text-decoration: underline;
 }
 
 h2 {
     font-size: var(--fs-300);
+    padding: 15px 0 5px;
 }
 
 p {
@@ -50,8 +52,6 @@ p {
     font-size: var(--fs-200);
     font-weight: var(--fw-semi-bold);
 }
-
-/* TEMP STYLES TO VISUALIZE BETTER */
 
 .drinkContainer {
     display: grid;
