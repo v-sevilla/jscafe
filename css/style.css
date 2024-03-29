@@ -24,7 +24,7 @@
 }
 
 body {
-    background-color: var(--color-background);
+    background: linear-gradient(to bottom, var(--color-secondary), var(--color-background));
     color:var(--color-neutral-light);
     font-family: var(--font-family);
     display: flex;
@@ -75,6 +75,15 @@ ul {
 li {
     list-style-type: none;
     margin: 0 10px;
+}
+
+a {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--color-neutral-light);
 }
 
 img {
