@@ -58,6 +58,27 @@ span {
     padding: 2px;
 }
 
+/* Nav Bar */
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    margin: 0 10px;
+}
+
+img {
+    width: 100vw;
+    height: auto; 
+}
+
 /* Drinks */
 .drinkContainer img {
     width: 180px;
