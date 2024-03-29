@@ -57,6 +57,27 @@ span {
     padding: 2px;
 }
 
+/* Homepage */
+
+.hero {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.hero img {
+    width: 100vw;
+    height: auto; 
+    filter: brightness(50%);
+}
+
+.hero p {
+    position: absolute;
+    bottom: 0;
+    width: 100%; 
+    padding: 10px; 
+    z-index: 1;
+}
+
 /* Nav Bar */
 
 nav {
@@ -84,11 +105,6 @@ a {
 
 a:hover {
     color: var(--color-neutral-light);
-}
-
-img {
-    width: 100vw;
-    height: auto; 
 }
 
 @media screen and (min-width: 768px) {
