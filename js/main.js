@@ -36,6 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log(error);
         }
     }
+
     async function renderIcedDrinks() {
         let icedDrinks = await getIcedDrinks();
         let html = '';
