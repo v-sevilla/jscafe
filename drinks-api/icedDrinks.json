@@ -1,0 +1,155 @@
+[   
+    {
+      "title": "Iced Latte",
+      "description": "Iced latte is a chilled coffee drink made by blending espresso and cold milk. It's served with ice cubes and is also known as café latte iced or latte on the rocks.",
+      "ingredients": [
+        "Espresso",
+        "Milk",
+        "Ice",
+        "Syrup"
+      ],
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aWNlZCUyMGxhdHRlfGVufDB8fDB8fHww",
+      "id": 1
+    },
+    {
+      "title": "Iced Latte Mocha",
+      "description": "Iced latte mocha is a combination of latte and mocha, which in itself is a combination of chocolate and coffee. It gives cold drink lovers a delightful experience of chocolate and coffee.",
+      "ingredients": [
+        "Espresso",
+        "Ice",
+        "Milk",
+        "Chocolate"
+      ],
+      "image": "https://images.unsplash.com/photo-1642647391072-6a2416f048e5?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGljZWQlMjBtb2NoYXxlbnwwfHwwfHx8MA",
+      "id": 2
+    },
+    {
+      "title": "Frapino Caramel",
+      "description": "It's a blended or rather shaken coffee with whipped cream on top. A must-have for hot summer days.",
+      "ingredients": [
+        "Coffee",
+        "Ice",
+        "Milk",
+        "Caramel syrup",
+        "Whipped cream*",
+        "Caramel sauce"
+      ],
+      "image": "https://images.unsplash.com/photo-1662047102608-a6f2e492411f?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJhcGlubyUyMGNhcmFtZWx8ZW58MHx8MHx8fA%3D%3D",
+      "id": 3
+    },
+    {
+      "title": "Frapino Mocha",
+      "description": "Another famous and delicious cold drink for those who prefer chocolate. Imagine the taste of a shake with chocolate and whipped cream on top.",
+      "ingredients": [
+        "Coffee",
+        "Ice",
+        "Milk",
+        "Cocoa",
+        "Whipped cream*"
+      ],
+      "image": "https://images.unsplash.com/photo-1530373239216-42518e6b4063?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJhcGlubyUyMG1vY2hhfGVufDB8fDB8fHww",
+      "id": 4
+    },
+    {
+      "title": "Orange Juice",
+      "description": "We have nothing to say about our freshly squeezed orange juice. You have to try it for yourself.",
+      "ingredients": [
+        "Fresh Oranges",
+        "Ice"
+      ],
+      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fG9yYW5nZSUyMGp1aWNlfGVufDB8fDB8fHww",
+      "id": 5
+    },
+    {
+      "title": "Frozen Lemonade",
+      "description": "Frozen lemonade is a refreshing summer drink that combines freshly squeezed lemon juice, ice, and sweetener into a cooling, tangy, and sweet-tart flavor sensation.",
+      "ingredients": [
+        "Lemon juice",
+        "Ice",
+        "Sugar*"
+      ],
+      "image": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxlbW9uYWRlJTIwd2l0aCUyMGljZXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 6
+    },
+    {
+      "title": "Lemonade",
+      "description": "Initially famous in Paris and then became very popular all over Europe. This sweet, colorless, carbonated drink is made by mixing lemon juice and carbonated water.",
+      "ingredients": [
+        "Lemon juice",
+        "Carbonated water",
+        "Honey"
+      ],
+      "image": "https://images.unsplash.com/photo-1621263764928-df1444c5e859?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGVtb25hZGV8ZW58MHx8MHx8fDA",
+      "id": 7
+    },
+    {
+      "title": "Iced Coffee",
+      "description": "A coffee with ice, typically served with a dash of milk, cream or sweetener—iced coffee is really as simple as that.",
+      "ingredients": [
+        "Coffee",
+        "Ice",
+        "Sugar*",
+        "Cream*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg",
+      "id": 8
+    },
+    {
+      "title": "Iced Espresso",
+      "description": "Like an iced coffee, iced espresso can be served straight or with a dash of milk, cream or sweetener. You can also ice speciality espresso-based drinks like americanos, mochas, macchiatos, lattes and flat whites.",
+      "ingredients": [
+        "Espresso",
+        "Ice",
+        "Sugar*",
+        "Cream*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Home_Made_Ice_Coffee.jpg",
+      "id": 9
+    },
+    {
+      "title": "Cold Brew",
+      "description": "The trendiest of the iced coffee bunch, cold brew coffees are made by steeping coffee beans from anywhere between 6-36 hours, depending on how strong you would like your cold brew. Once the beans are done steeping, add cold milk or cream.",
+      "ingredients": [
+        "Long steeped coffee",
+        "Ice"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ColdBrewCoffeein_Cans.png/640px-ColdBrewCoffeein_Cans.png",
+      "id": 10
+    },
+    {
+      "title": "Frappuccino",
+      "description": "Made famous by Starbucks, the Frappuccino is a blended iced coffee drink that’s topped with whipped cream and syrup. ",
+      "ingredients": [
+        "Espresso",
+        "Blended ice",
+        "Whip*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Strawberry_Delight_Frappuccino.JPG",
+      "id": 11
+    },
+    {
+      "title": "Nitro",
+      "description": "A cold brew + nitrogen bubbles = a cold brew coffee with a frothy, Guinness-like consistency. (It’s poured via a nitro tap, too.)",
+      "ingredients": [
+        "Coffee",
+        "Nitrogen bubbles",
+        "Sugar*",
+        "Cream*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nitro_Cold_Brew.jpg",
+      "id": 12
+    },
+    {
+      "title": "Mazagran",
+      "description": "Mazagran coffee is a cross between iced coffee, tea and your favorite rum drink. It typically consists of espresso, lemon, sugar and (sometimes) rum.",
+      "ingredients": [
+        "Coffee",
+        "Sugar",
+        "Lemon",
+        "Rum*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Caf%C3%A9_mazagran.jpg",
+      "id": 13
+    }
+  ]
+  
