@@ -12,6 +12,14 @@ https://jscafe.netlify.app/
 5. Navigate and click into the index.html file
 6. Select 'Open with Live Server' from the context menu
 
+### Issues
+- SampleAPIs' Coffee API was a mix of Swedish and English
+- Some of the items in the API were incorrectly categorized
+
+### Solutions
+- Translated API into English
+- Created json files to categorize drinks correctly
+
 ### Future Implementation
 - Install node and express to resolve CORS errors
 - Spacing of elements in styles
