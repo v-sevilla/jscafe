@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     async function getHotDrinks() {
-        let url = "/drinks-api/hotDrinks.json";
+        let url = "./drinks-api/hotDrinks.json";
         try {
             let res = await fetch(url);
             return await res.json();
@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     async function getIcedDrinks() {
-        let url = "/drinks-api/icedDrinks.json";
+        let url = "./drinks-api/icedDrinks.json";
         try {
             let res = await fetch(url);
             return await res.json();
