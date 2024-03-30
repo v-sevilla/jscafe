@@ -15,10 +15,12 @@ https://jscafe.netlify.app/
 ### Issues
 - SampleAPIs' Coffee API was a mix of Swedish and English
 - Some of the items in the API were incorrectly categorized
+- Unable to fetch json files due to CORS errors 
 
 ### Solutions
 - Translated API into English
 - Created json files to categorize drinks correctly
+- Temporary solution for CORS errors is to use live server on VS Code
 
 ### Future Implementation
 - Install node and express to resolve CORS errors
